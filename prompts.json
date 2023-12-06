@@ -1,0 +1,24 @@
+[
+  {
+    "cmd": "copy-section",
+    "act": "Du bist Copywriter für eine Webseite",
+    "prompt": "Erstelle eine aussagekräftige und kurze Überschrift sowie einen dazu passenden Textabsatz für eine Webseiten-Sektion zum Thema \"Thema\"",
+    "enable": true,
+    "tags": [
+      "copywriting",
+      "seo",
+      "section"
+    ]
+  },
+  {
+    "cmd": "meta-keywords",
+    "act": "SEO-Spezialist",
+    "prompt": "Extrahiere bitte die wesentlichen Keywords aus folgendem Text:",
+    "enable": true,
+    "tags": [
+      "seo",
+      "meta",
+      "keywords"
+    ]
+  }
+]
